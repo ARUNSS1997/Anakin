@@ -1,0 +1,87 @@
+.start {
+  display: flex;
+  flex-direction: row;
+}
+
+.btn:hover {
+  background-color: white;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  width: 33%;
+  margin-left: 18%;
+  border-radius: 2%;
+  background-color: rgb(148, 230, 148);
+  /* justify-content: center; */
+}
+.heading {
+  font-size: large;
+}
+h1 {
+  margin-left: 25%;
+}
+.one {
+  background-color: rgb(148, 230, 148);
+  margin-left: 4%;
+}
+.icon {
+  display: flex;
+  flex-direction: row;
+  margin-left: 4%;
+  background-color: rgb(148, 230, 148);
+}
+.icon1 {
+  display: flex;
+  flex-direction: column;
+  margin-right: 10%;
+  background-color: rgb(148, 230, 148);
+}
+.ryt {
+  width: 33%;
+  /* height: 100%; */
+  background-color: beige;
+}
+.second {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 5%;
+  margin-top: 1%;
+}
+.third {
+  margin-left: 5%;
+}
+.fourth {
+  margin-left: 5%;
+  margin-top: 2%;
+}
+.buttons {
+  margin-left: 18%;
+}
+.footer {
+  margin-top: 1%;
+  margin-left: 18%;
+  display: flex;
+  flex-direction: row;
+}
+.box {
+  background-color: whitesmoke;
+  width: 300px;
+  border: 1px solid black;
+  padding: 25px;
+  margin-left: 2%;
+}
+#small {
+  margin-top: -10%;
+  margin-left: -10%;
+}
+.checkbox {
+  margin-left: 10px;
+}
+.final {
+  margin-top: -16%;
+  margin-left: 25%;
+}
+.bottom {
+  margin-left: 4%;
+}
